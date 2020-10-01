@@ -1,2 +1,3 @@
-# foodDelivery
- <!amazing project buddy-->
+# foodDelivery Website
+https://rushkinrenny.github.io/foodDelivery/
+
